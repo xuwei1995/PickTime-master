@@ -63,8 +63,8 @@
         dialog.setMessageFormat("yyyy-MM-dd HH:mm");
         //设置选择回调
         dialog.setOnChangeLisener(null);
-        //设置点击确定按钮回调
-        dialog.setOnSureLisener(null);
+        //设置点击确定按钮回调返回DATE型日期
+        dialog.setOnSureLisener(null);
         dialog.show();
 ```
 
