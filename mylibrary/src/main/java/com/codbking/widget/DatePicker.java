@@ -141,7 +141,6 @@ class DatePicker extends BaseWheelPick {
     protected String[] convertData(WheelView wheelView, Integer[] data) {
         if (wheelView == yearView) {
             return datePicker.getDisplayValue(data, "年");
-
         } else if (wheelView == monthView) {
             return datePicker.getDisplayValue(data, "月");
         } else if (wheelView == dayView) {
