@@ -140,13 +140,13 @@ class DatePicker extends BaseWheelPick {
 
     protected String[] convertData(WheelView wheelView, Integer[] data) {
         if (wheelView == yearView) {
-            return datePicker.getDisplayValue(data, " -");
+            return datePicker.getDisplayValue(data, "年");
         } else if (wheelView == monthView) {
-            return datePicker.getDisplayValue(data, " -");
+            return datePicker.getDisplayValue(data, "月");
         } else if (wheelView == dayView) {
-            return datePicker.getDisplayValue(data, "");
+            return datePicker.getDisplayValue(data, "日");
         } else if (wheelView == hourView) {
-            return datePicker.getDisplayValue(data, " :");
+            return datePicker.getDisplayValue(data, "    :");
         } else if (wheelView == minuteView) {
             return datePicker.getDisplayValue(data, "");
         }
