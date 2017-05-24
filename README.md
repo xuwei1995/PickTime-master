@@ -1,9 +1,9 @@
 # PickTime
 ## 日期选择控件 ##
 
-[![](https://jitpack.io/v/codbking/PickTime.svg)](https://jitpack.io/#codbking/PickTime)
+[![](https://jitpack.io/v/codbking/PickTime.svg)](https://jitpack.io/#xuwei1995/PickTime-master)
 
- [**apk下载**](https://raw.githubusercontent.com/xuwei1995/PickTime/master/app-debug.apk)
+ [**apk下载**](https://github.com/xuwei1995/PickTime-master/raw/master/APK/app-debug.apk)
 
 ### 截图
 ------------------
