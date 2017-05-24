@@ -146,7 +146,7 @@ class DatePicker extends BaseWheelPick {
         } else if (wheelView == dayView) {
             return datePicker.getDisplayValue(data, "日");
         } else if (wheelView == hourView) {
-            return datePicker.getDisplayValue(data, "    :");
+            return datePicker.getDisplayValue(data, "  :");
         } else if (wheelView == minuteView) {
             return datePicker.getDisplayValue(data, "");
         }
