@@ -3,7 +3,7 @@
 
 [![](https://jitpack.io/v/codbking/PickTime.svg)](https://jitpack.io/#codbking/PickTime)
 
- [**apk下载**](https://raw.githubusercontent.com/codbking/PickTime/master/app-debug.apk)
+ [**apk下载**](https://raw.githubusercontent.com/xuwei1995/PickTime/master/app-debug.apk)
 
 ### 截图
 ------------------
@@ -46,7 +46,7 @@
  -  **Add the dependency**
 ```sh
 	dependencies {
-	        compile 'com.github.codbking:PickTime:v1.0.1'
+	       compile 'com.github.xuwei1995:PickTime-master:1.0.2'
 	}
 ```
 
